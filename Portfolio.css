@@ -1,0 +1,18 @@
+h1 {
+    font-family: Georgia;
+    background-blend-mode: color-burn;
+    background-color: grey
+}
+
+h2 {
+    font-family: Cambria
+    font-size: 40pc
+}
+
+h3 {
+    font-family: serif
+    font-size: 30pc
+}
+.Section1:hover {
+    font-family: 'Trebuchet MS';
+    background-color: lightgrey;
